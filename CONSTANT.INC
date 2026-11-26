@@ -1,5 +1,5 @@
 ; CONSTANTS.INC - shared named constants (game states, flag pole zone, enemy record layout, sky color).
-; Owner: Member 3 - Game Logic (Module 1).
+; Owner: Umer - Game Logic (Module 1).
 
 STATE_TITLE          equ 0
 STATE_PLAYING        equ 1
