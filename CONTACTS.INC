@@ -1,5 +1,5 @@
 ; CONTACTS.INC - Mario against enemies and the flag: stomp, kick, damage, flag points.
-; Owner: Member 3 - Game Logic (Modules 10 (entity part), 11 (damage and stomp rules)).
+; Owner: Umer- Game Logic (Modules 10 (entity part), 11 (damage and stomp rules)).
 
 ; ResolveEntityContacts handles collisions between Mario, enemies, and power-up mushrooms.
 ; Overlapping Mario with enemies supports stomping, kicking shells, stopping sliding shells, or taking damage.
