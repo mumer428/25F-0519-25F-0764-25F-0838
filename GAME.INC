@@ -1,5 +1,5 @@
 ; GAME.INC - game states, screens flow, reset, win and death sequences.
-; Owner: Member 3 - Game Logic (Modules 1, 14, 15).
+; Owner: Umer - Game Logic (Modules 1, 14, 15).
 
 ; GameStep acts as the main state dispatcher for the game loop.
 ; It reads the current game_state byte and checks that it does not exceed STATE_EXIT.
