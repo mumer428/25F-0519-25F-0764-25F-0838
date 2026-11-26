@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="t">
+<title id="t">Pixel platform game mark</title>
+<rect x="7" y="7" width="114" height="114" rx="16" fill="#171c4b"/>
+<path fill="#ffd358" d="M18 83h28V55h28V27h28v56h10v17H18z"/>
+<path fill="#f1a82e" d="M46 55h28v28H46zM74 27h28v28H74z"/>
+<path fill="#ef4855" d="M31 40h42v10H31zm7-10h28v10H38z"/>
+<path fill="#ffd2a0" d="M38 50h35v16H38z"/>
+<path fill="#28233f" d="M62 53h7v7h-7z"/>
+<path fill="#2768c8" d="M31 66h42v20H31zM24 70h12v15H24zm42 0h13v15H66z"/>
+<path fill="#543d4d" d="M28 86h20v8H28zm30 0h20v8H58z"/>
+<path fill="#fff1a8" d="M83 36h10v10H83z"/>
+</svg>
