@@ -1,5 +1,5 @@
 ; SCREENS.INC - title, life lost, level complete, game over and dying screens.
-; Owner: Member 3 - Graphics and Drawing (Module 14 (drawing part)).
+; Owner: Umer - Graphics and Drawing (Module 14 (drawing part)).
 
 ; ScreenPrint writes a null-terminated string at screen_row and screen_col via BIOS.
 ; It positions the cursor with INT 10h AH=02h first.
