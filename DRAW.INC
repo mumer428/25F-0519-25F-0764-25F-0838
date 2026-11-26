@@ -1,5 +1,5 @@
 ; DRAW.INC - pixels, rectangles, sprites, frame buffer, palette and text drawing.
-; Owner: Member 1 - Graphics and Drawing (Modules 2, 4, 5).
+; Owner: M Rehan - Graphics and Drawing (Modules 2, 4, 5).
 
 SCREEN_WIDTH  equ 320
 SCREEN_HEIGHT equ 200
