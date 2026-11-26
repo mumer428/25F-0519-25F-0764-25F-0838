@@ -1,5 +1,5 @@
 ; SCORE.INC - score, coins, lives and number-to-text conversion.
-; Owner: Member 3 - Game Logic (Module 13).
+; Owner: Umer - Game Logic (Module 13).
 
 ; AddCoin increments the player's coin count and handles 100-coin rollovers.
 ; If coin_count reaches 100, it wraps back to 0 and awards an extra life.
