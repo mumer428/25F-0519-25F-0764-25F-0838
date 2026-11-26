@@ -1,5 +1,5 @@
 ; VIDEO.INC - switching between VGA mode 13h and text mode.
-; Owner: Member 1 - Graphics and Drawing (Module 2).
+; Owner: M Rehan - Graphics and Drawing (Module 2).
 
 ; VideoMode13 switches the display into standard 320x200 256-color VGA graphics mode.
 ; It saves AX on the stack and loads 0013h into AX for the BIOS video service.
