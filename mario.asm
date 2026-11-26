@@ -1,5 +1,5 @@
 ; mario.asm - program entry, memory setup, main loop and clean shutdown.
-; Owner: Member 3 - Game Logic (Module 1, Module 15 exit).
+; Owner: Umer - Game Logic (Module 1, Module 15 exit).
 
 CPU 8086
 BITS 16
