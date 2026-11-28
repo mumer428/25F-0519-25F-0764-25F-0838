@@ -536,7 +536,7 @@ ret
 ResetMovement:
 mov  word [movement_x_int], 32
 mov  byte [movement_x_frac], 0
-mov  word [movement_y_fp], 24*256
+mov  word [movement_y_fp], 144*256
 mov  word [movement_vx], 0
 mov  word [movement_vy], 0
 mov  byte [movement_grounded], 1
@@ -547,7 +547,7 @@ ret
 
 movement_x_int          dw 32
 movement_x_frac         db 0
-movement_y_fp           dw 24*256
+movement_y_fp           dw 144*256
 movement_vx             dw 0
 movement_vy             dw 0
 movement_grounded       db 1
